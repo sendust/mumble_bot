@@ -1,0 +1,13 @@
+{
+  "mumble_server": "10.10.108.51",
+  "mumble_port": 64738,
+  "mumble_password": "",
+  "bot_name": "talk_BOT",
+  "target_channel": "onair",
+  "mumble_bandwidth_bps": 64000,
+  "alsa_device": "hw:2,0",
+  "alsa_card_index": 0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "chunk_size": 960
+}
