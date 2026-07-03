@@ -1,0 +1,9 @@
+{
+    "server": "10.10.108.51",
+    "port": 64738,
+    "username": "12345",
+    "password": "",
+    "su": "SuperUser",
+    "supassword": "0000",
+    "ServerMute": ["T1", "T4", "SBSONAIR(B)", "T6", "T4P", "T1P", "talk_BOT", "SuperUser"]
+}
